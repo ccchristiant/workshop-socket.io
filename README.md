@@ -35,7 +35,6 @@ Once it's installed we can create an ```index.js``` file that will set up our ap
 ```javascript
 const app = require('express')();
 const http = require('http').Server(app);
-const server = http.createServer(app);
 const port = process.env.PORT || 3000;
 
 
