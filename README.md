@@ -98,7 +98,7 @@ Put the following in your ```index.html``` file:
 </html>
 ```
 
-If you restart the process (by hitting Control+C and running ```node index.js``` again) and refresh the page it should show you our page with our textbox at the bottom with our send button.
+If you restart the process (by hitting Control+C and running ```node index.js``` again) and refresh the page it should show you our page with our textbox at the bottom with our send button. (<--- Don't forget it)
 
 # Integrating Socket.IO
 
